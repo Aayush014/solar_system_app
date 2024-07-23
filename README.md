@@ -20,20 +20,19 @@ Welcome to the Solar System App! This Flutter application provides an interactiv
     <td><img src="https://github.com/user-attachments/assets/e8f02f3f-93fe-4ef4-8564-04f0f9290f68" alt="Image 2" width="180" height="auto"></td>
     <td><img src="https://github.com/user-attachments/assets/c76e2f9f-e11f-4781-8d99-e230a41c7276" alt="Image 2" width="180" height="auto"></td>
     <td><img src="https://github.com/user-attachments/assets/b9e0178e-fc39-41f3-8cab-627d40111bc3" alt="Image 2" width="180" height="auto"></td>
-  </tr>
     </table>    
   </p>
   </details>
-<!--   <details> 
+  <details> 
   <summary><h2>📽️Video</h2></summary>
   <p>
     <table align="center">
   <tr>
-    <video src =""></video> </h1>
+    <video src ="https://github.com/user-attachments/assets/13569fd9-c1fc-45b0-ac9c-1a374dc089b6"></video> </h1>
   </tr>
     </table>   
   </p>
-  </details> -->
+  </details>
 
 ## Installation
 
